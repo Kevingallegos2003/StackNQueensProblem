@@ -1,0 +1,4 @@
+Kevin Gallegos CSE 101 - HW2: NQueens without recursion
+Purpose: This program solves the Nqueens problem with a input presetting queens at the size of N also set by the input
+Usage: Input must have each line formed as SIZE COORDINATES, EX: 8 2 3 (SIZE 8 and set queen at 2,3), 8 2 3 4 2, etc.
+Output: Coordinates of queens if solved, or else "prints No solution"
